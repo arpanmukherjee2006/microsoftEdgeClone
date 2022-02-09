@@ -1,0 +1,137 @@
+
+body{
+    background-color: rgb(0, 0, 0);;
+   margin: 0;
+   padding: 0;
+ }
+ .logo{
+    margin: 102px 187px 21px 471px;
+    padding: 47px 4px 36px 1px;
+    width: 350px;
+ }
+ .boxes{
+     color: white;
+     margin: 32px 4px 11px 8px;
+     padding: 5px 5px 5px 5px;
+     float: left;
+     
+     
+ }
+ .boxes:hover{
+background-color: gray;
+ }
+ .search input{
+    background-color: #212121;
+    margin: -84px 30px 38px 412px;
+    padding: 15px 540px 16px 13px;
+    border-radius: 30px;
+    border: none;
+    text-align:center;
+   border-top-right-radius: 0px;
+   border-bottom-right-radius: 0px;
+   color: white;
+ }
+ .search input:hover{
+    border: none;
+ }
+ .search .searchlogo{
+     color: white;
+     background-color: #0e6bba;
+     border-radius: 30px;
+     padding: 13px 24px 16px 22px;
+     margin: 8px 9px 10px -30px;
+border-top-left-radius: 0px;
+border-bottom-left-radius: 0px;
+ }
+ .searchlogo:hover{
+    background-color: #2278c4;
+    color: white;
+ }
+ i2{
+     color: gold;
+     margin: 28px 4px 11px 8px;
+     padding: 12px 4px 5px 5px;
+     float: left;
+ }
+ #h4{
+    color: rgb(255, 255, 255);
+    margin: 29px -8px 14px -1px;
+    padding: 10px 4px 7px 7px;
+    float: left;
+    font-size: 13px;
+    font-family: 'Source Serif 4', sans-serif;
+ }
+ .settings{
+color: white;
+margin: -373px 37px 11px 8px;
+padding: 5px 5px 5px 5px;
+float: right;
+font-size: 15px;
+ }
+ .settings :hover{
+    background-color: gray;
+ }
+ .youtubeimg{
+    width: 100px;
+    padding: 5px 20px 20px 16px;
+    margin: -13px 9px 10px 398px;
+  
+ }
+ .youtubeimg:hover{
+background-color: rgb(29, 29, 29);
+ }
+ .youtube{
+    color: white;
+    text-decoration: none;
+    padding: 0px 4px 6px 436px;
+    margin: -36px 5px 5px 2px;
+    font-size: 15px;
+    
+ }
+ .instaimg{
+   width: 74px;
+   padding: 13px 20px 20px 11px;
+   margin: -88px 81px 39px 615px;
+
+   }
+   .instaimg:hover{
+      background-color: rgb(29, 29, 29);
+   }
+   .insta{
+      color: white;
+      text-decoration: none;
+      padding: 0px 4px 6px 436px;
+      margin: -60px 16px 8px 193px;
+    font-size: 16px;
+   }
+   .twitterimg{
+      width: 66px;
+      padding: 13px 20px 20px 11px;
+      margin: -106px 81px 39px 808px;
+   
+      }
+      .twitterimg:hover{
+         background-color: rgb(29, 29, 29);
+
+      }
+      .tweet{
+         color: white;
+         text-decoration: none;
+         padding: 0px 4px 6px 436px;
+         margin: -67px 16px 8px 396px;
+       font-size: 15px;
+      }
+      .add{
+         padding: 11px 4px 5px 6px;
+    margin: -75px 3px 6px -14px
+      }
+      .plus{
+         color: rgb(151, 148, 148);
+         text-decoration: none;
+         padding: 0px 4px 6px 612px;
+         margin: -67px 16px 8px 396px;
+         margin-top: 2px;
+       font-size: 25px;
+       display: inline-block;
+       }
+      
